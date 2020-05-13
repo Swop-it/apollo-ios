@@ -2558,6 +2558,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 90690D06224333DA00FC2E54 /* Apollo-Target-Framework.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 0.27.2;
+				MARKETING_VERSION = 0.27.2;
 			};
 			name = Debug;
 		};
@@ -2565,6 +2567,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 90690D06224333DA00FC2E54 /* Apollo-Target-Framework.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 0.27.2;
+				MARKETING_VERSION = 0.27.2;
 			};
 			name = Release;
 		};
@@ -2607,6 +2611,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 90690D06224333DA00FC2E54 /* Apollo-Target-Framework.xcconfig */;
 			buildSettings = {
+				CURRENT_PROJECT_VERSION = 0.27.2;
+				MARKETING_VERSION = 0.27.2;
 			};
 			name = PerformanceTesting;
 		};
